@@ -40,7 +40,7 @@
     "company": "Stabby Flies",
     "description": "Multiplayer browser game (io game) built with Elixir/Phoenix",
     "term": "November 2018 - Present",
-    "demoUrl": "https://meaty-spiffy-hermitcrab.gigalixirapp.com",
+    "_demoUrl": "https://meaty-spiffy-hermitcrab.gigalixirapp.com",
     "url": "https://github.com/hassanshaikley/stabby-flies",
     "technologies": [
       "Elixir",
